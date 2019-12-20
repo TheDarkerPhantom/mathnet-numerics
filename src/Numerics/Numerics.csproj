@@ -37,5 +37,4 @@ Optimization: Detect early completion in BFGS-B minimizer ~Tom McTiernan</Packag
     <Reference Include="System.Numerics" />
     <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
-  <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
